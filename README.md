@@ -3,11 +3,6 @@
 I'm a passionate Fullstack Developer currently studying at Danang University of Science and Technology. I enjoy creating
 web and mobile applications, and I'm also interested in blockchain technology.
 
-
-## 💼
-![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ0cTljMjc0Mmh5MWhzcG13dXc4cWk0ZTJibWVtZ3YwdzlyMzBoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MZhHD6Pc2FUWlAP7Zr/source.gif)
-
-
 ## 🛠 Skills and Technologies
 
 ### Front-end
